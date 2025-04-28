@@ -1,11 +1,11 @@
 # Alain Hernandez's Portfolio
-Welcom to my Homepage! My name is Alain Hernandez and I am a student of the 
+Welcome to my Homepage! My name is Alain Hernandez and I am a student of the 
 [California State University of Fullerton](http://www.fullerton.edu/) and my 
 major is computer engineering. I expect to graduate in 2028.
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/zednanreHnialA.
+My GitHub page is [http://github.com/zednanreHnialA](http://github.com/zednanreHnialA).
 
 ### CPSC 120 Labs
 
