@@ -1,4 +1,4 @@
-# Alain Hernandez's Portfolio
+# Hello World
 Welcome to my Homepage! My name is Alain Hernandez and I am a student of the 
 [California State University of Fullerton](http://www.fullerton.edu/) and my 
 major is computer engineering. I expect to graduate in 2028.
