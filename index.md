@@ -23,3 +23,7 @@ My GitHub page is [http://github.com/zednanreHnialA](http://github.com/zednanreH
     how to check for valid command line arguments and proper command line size.
 
 * Lab 12
+
+    I liked lab 12 because it was related to how digital arts work. This lab taught me the 
+    proper Magick statements to create an image with colors. I also was able to make .gif 
+    images where the image looks like its moving.
